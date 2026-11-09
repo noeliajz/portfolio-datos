@@ -5,9 +5,9 @@ Ejercicios de SQL con MySQL sobre un dataset público de inversión en investiga
 ## Fuente de los datos
 
 - **Portal:** [Datos Argentina](https://www.datos.gob.ar/)
-- **Dataset:** _(completá con el nombre del dataset y el link directo a su página)_
+- **Dataset:** Investigación y Desarrollo (I+D) (https://www.datos.gob.ar/dataset/investigacion-y-desarrollo-id)
 - **Archivo:** `01._inversion_total_id.csv`
-- **Licencia:** revisá las condiciones de uso en la página del dataset.
+
 
 ## Descripción del dataset
 
