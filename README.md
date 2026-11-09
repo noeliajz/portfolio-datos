@@ -59,4 +59,4 @@ Una fila por año (21 filas, de 2004 a 2024). El archivo usa `;` como separador 
 
 ## Autora
 
-Noe, estudiante de Ingeniería en Sistemas de Información (UTN).
+Noelia Zelaya, estudiante de Ingeniería en Sistemas de Información (UTN FRT), Analista Universitario de sistemas (2025).
